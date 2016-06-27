@@ -62,6 +62,13 @@ body{
     position: relative;
     top: 130px;
     right: 20px;
+    color: navajowhite;
+    font-size: 100px
+}
+
+#dmgdone {
+    color: navajowhite;
+    font-size: 30px;
 }
 
 
