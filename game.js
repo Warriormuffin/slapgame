@@ -32,7 +32,8 @@ function kick(){
 
 
 function walldrop(){
-  damagePlayer(30, 'hadouken')
+   document.write('<img src="http://i0.wp.com/fusion.net/wp-content/uploads/2016/03/cannotunsee14.gif?resize=960%2C541&quality=80&strip=all">')
+         
 }
 
 function update(){
