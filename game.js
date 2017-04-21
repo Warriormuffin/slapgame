@@ -2,7 +2,6 @@ var health = 100;
 
 function damagePlayer(amount, attackType){
    if(health <= 0){
-      document.getElementById('health').innerText = 0
       document.getElementById("donald").innerHTML ="You beat the shit out of Donald"
 
 
